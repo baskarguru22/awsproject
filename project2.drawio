@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-24T08:22:57.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="cg7yBC8TlG5yo2QTHNDX" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-24T08:47:42.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="Wdefk5IzNxwKOAM1s7op" version="13.1.3" type="github">
   <diagram id="l97BmIPQvJBXFoo5Fgon" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,13 +32,31 @@
           <mxGeometry x="130" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zaGkdSDAqxJlf8OTe4BS-11" value="Environments" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zaGkdSDAqxJlf8OTe4BS-12" value="Account" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zaGkdSDAqxJlf8OTe4BS-13" value="Intrastructure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="zaGkdSDAqxJlf8OTe4BS-13" value="Modules Intrastructure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="20" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zaGkdSDAqxJlf8OTe4BS-18" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.storage_blob;" vertex="1" parent="1">
+          <mxGeometry x="740" y="405" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="zaGkdSDAqxJlf8OTe4BS-19" value="Storage Blob&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="450" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zaGkdSDAqxJlf8OTe4BS-20" value="state.tf-Dev-Env" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="480" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zaGkdSDAqxJlf8OTe4BS-21" value="state.tf-QA-Env" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="520" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zaGkdSDAqxJlf8OTe4BS-24" value="state.tf-Test-Env&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="703.75" y="560" width="127.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zaGkdSDAqxJlf8OTe4BS-26" value="state.tf-&lt;br&gt;Prod-Env" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="706.25" y="600" width="122.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
