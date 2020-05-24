@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-24T08:57:10.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="Be6Q--B-SkWQ5FuUhHq_" version="13.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-24T09:31:18.654Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="YdsG8Ul9ExpRSY87W7y1" version="13.1.3" type="github">
   <diagram id="l97BmIPQvJBXFoo5Fgon" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="130" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zaGkdSDAqxJlf8OTe4BS-3" value="Dev-Env&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="210" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zaGkdSDAqxJlf8OTe4BS-5" value="QA-Env" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="300" width="120" height="60" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="440" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zaGkdSDAqxJlf8OTe4BS-7" value="Prod-Env" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="480" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zaGkdSDAqxJlf8OTe4BS-8" value="Frondend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="300" width="120" height="60" as="geometry" />
@@ -28,14 +28,14 @@
         <mxCell id="zaGkdSDAqxJlf8OTe4BS-9" value="Backend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zaGkdSDAqxJlf8OTe4BS-10" value="Roles and Permisions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="zaGkdSDAqxJlf8OTe4BS-10" value="V-net" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="530" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zaGkdSDAqxJlf8OTe4BS-11" value="Environments" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="110" width="120" height="30" as="geometry" />
+          <mxGeometry x="440" y="170" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zaGkdSDAqxJlf8OTe4BS-12" value="Account" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zaGkdSDAqxJlf8OTe4BS-13" value="Modules Intrastructure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="20" width="185" height="60" as="geometry" />
@@ -57,6 +57,33 @@
         </mxCell>
         <mxCell id="zaGkdSDAqxJlf8OTe4BS-26" value="state.tf-&lt;br&gt;Prod-Env" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="706.25" y="600" width="122.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zaGkdSDAqxJlf8OTe4BS-28" value="Roles and Permisions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="750" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zaGkdSDAqxJlf8OTe4BS-29" value="Security group" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="580" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zaGkdSDAqxJlf8OTe4BS-30" value="Startup-softwears" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="790" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zaGkdSDAqxJlf8OTe4BS-31" value="VMs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="480" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zaGkdSDAqxJlf8OTe4BS-32" value="Loadbalancer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="670" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zaGkdSDAqxJlf8OTe4BS-33" value="Autoscaling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="710" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zaGkdSDAqxJlf8OTe4BS-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="240" width="20" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="zaGkdSDAqxJlf8OTe4BS-36" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="495" width="20" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="zaGkdSDAqxJlf8OTe4BS-37" value="Subnets" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="620" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
